@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ChauhanRitika
-- 👀 I’m interested in Web Development and Software Development.
-- 🌱 My hobbies are paiting and playing badminton.
+- 👀 I’m interested in Web and Software Development.
 
 
 
